@@ -9,6 +9,6 @@ public class AddNumbers {
 
         int sum = a + b;
 
-        System.out.println(sum);
+        System.out.println("Sum:" + sum);
     }
 }
